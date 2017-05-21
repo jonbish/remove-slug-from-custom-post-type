@@ -1,0 +1,13 @@
+{
+    "name": "jonbish/remove-slug-from-custom-post-type",
+    "description": "Remove Slug From Custom Post Type",
+    "minimum-stability" : "stable",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Jon Bishop",
+            "email": "jonbish@gmail.com"
+        }
+    ],
+    "require": {}
+}
